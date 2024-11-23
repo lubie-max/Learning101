@@ -1,7 +1,7 @@
 package dev.lubna.journalApp.controller;
 
 
-import dev.lubna.journalApp.models.JournalEntry;
+import dev.lubna.journalApp.model.JournalEntry;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;

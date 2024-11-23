@@ -1,4 +1,4 @@
-package dev.lubna.journalApp.models;
+package dev.lubna.journalApp.model;
 
 public class JournalEntry {
 
